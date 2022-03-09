@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/maxkaiser100/3-Column-Preview.git
-- Live Site URL: https://maxkaiser100.github.io/3-Column-Preview/
+- Solution URL: https://github.com/maxkaiser100/social-proof.git
+- Live Site URL: https://maxkaiser100.github.io/social-proof/
 
 ## My process
 
